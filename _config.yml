@@ -24,7 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "About me"
   pronouns         : # example: "she/her"  
-  bio              : "(Sanskrit: अमृत, IAST: amṛta is a Sanskrit word that means 'immortality'"
+  bio              : "Sanskrit: अमृत, IAST: amṛta"
+                     "a Sanskrit word that means 'immortality'"
   location         : "West Lafayette"
   employer         : "Purdue University"
   uri              : # URL
