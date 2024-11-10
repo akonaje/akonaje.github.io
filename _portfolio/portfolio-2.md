@@ -5,7 +5,7 @@ excerpt: "A project on OpenStreetMaps (OSM) as part of a team within The Data Mi
 collection: portfolio
 ---
 
-<h>[Parking Lots in OpenStreetMaps](https://github.com/rvempat/TDM_111-OSM-Project/tree/main)</h>
+# [Parking Lots in OpenStreetMaps](https://github.com/rvempat/TDM_111-OSM-Project/tree/main)
 
 The goal of this project is to add parking lot suggestions to Open Street Maps (OSM) using a machine learning model trained on satellite images. We use data currently in OSM to train our model. We currently have the coordinates of 221 surface-level parking lots in the Indianapolis region.
 
